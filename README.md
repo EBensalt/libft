@@ -12,7 +12,7 @@ It will contain a lot of general purpose functions.
 ```bash
   make
 ```
-2. you will have a libft.a file that can be compiled with a other c files
+2. you will have an archive file "libft.a" that can be compiled with an other c files
 ```bash
   cc libft.a <yourfiles>.c
 ```
